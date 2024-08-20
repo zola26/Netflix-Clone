@@ -40,3 +40,6 @@ List-style: none;
 cursor: pointer;
 /* background-color: lightgreen; */
 }
+.header_left img{
+width: 100px;
+}
